@@ -1,1 +1,1 @@
-# APM - Practical Examination Repository
+This is a simple Java Application with an User Interface that stores the progress of the stundet's bachelor's theses and stores them in a database. In the UI you can see all the details about the theses, you can modify them and all the changes will be saved in the database.
